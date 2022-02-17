@@ -1,2 +1,5 @@
 # kag_web 
-## sdsdsdsd
+git add
+git status
+gigit commit -m "text"
+git push
